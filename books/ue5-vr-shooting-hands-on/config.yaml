@@ -1,0 +1,31 @@
+title: "UE5でVR射撃訓練ゲームを作ろう"
+summary: "Unreal Engine5を使った初心者向けVRゲーム開発ハンズオン用のテキストです。
+ちょっとしたVRゲームの作成を通じて、UE5を使ったVR開発の基礎的な部分に触れることを目的としています。"
+topics: ["UnrealEngine", "UnrealEngine5", "UE5", "VR"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - chap_00_about
+  - chap_00_env_setup
+  - chap_01_handson_start
+  - chap_01_create_project
+  - chap_01_enjoy_vr_template
+  - chap_01_templates
+  - chap_01_add_grabbable_obj
+  - chap_01_editor_settings
+  - chap_01_vr_movement
+  - chap_01_smooth_move
+  - chap_01_switch_move_mode
+  - chap_01_create_target
+  - chap_01_appear_target
+  - chap_01_measure_time
+  - chap_01_result_ui
+  - chap_01_play_bgm
+  - chap_01_play_se
+  - chap_01_packaging
+  - chap_01_finish_handson
+  - chap_02_additional_explanation
+  - 
+  - 
+  - 

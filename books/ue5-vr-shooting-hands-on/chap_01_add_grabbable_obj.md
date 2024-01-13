@@ -27,7 +27,7 @@ Unreal Engine Version : 5.3.2
 名前を［BP_GrabbableObj］に設定します。
 ![](https://storage.googleapis.com/zenn-user-upload/ffc65943ccfd-20240113.png)
 
-### 命名規則の参考
+### 命名規則の参考ページ
 
 https://github.com/Allar/ue5-style-guide
 
@@ -87,7 +87,7 @@ VRプレビューを実行して、動作を確認してみましょう。
 https://youtu.be/HjD9wfnS7Hg
 
 
-# 物理挙動を有効する
+# 物理挙動を有効化する
 
 ![](https://storage.googleapis.com/zenn-user-upload/f70e378c6f3c-20240113.png)
 

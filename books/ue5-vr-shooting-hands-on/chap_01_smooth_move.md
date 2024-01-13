@@ -39,6 +39,12 @@ UE標準の移動機能を使いたいので、VRPawnの親クラスをCharacter
 
 ![](https://storage.googleapis.com/zenn-user-upload/2e6d6ddcf2ea-20240113.png)
 
+このままでは回転が上手くできないので、[Use Controller Rotation Yaw]のチェックをオフにします。
+
+![](https://storage.googleapis.com/zenn-user-upload/b57e8ad5c8f9-20240113.png)
+
+
+左スティックでの入力処理を実装します。
 
 ![](https://storage.googleapis.com/zenn-user-upload/341cc1709836-20240113.png)
 

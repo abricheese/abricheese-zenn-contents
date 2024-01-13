@@ -20,6 +20,7 @@ chapters:
   - chap_01_create_target
   - chap_01_appear_target
   - chap_01_measure_time
+  - chap_01_create_map
   - chap_01_result_ui
   - chap_01_play_bgm
   - chap_01_play_se

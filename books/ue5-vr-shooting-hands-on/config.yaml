@@ -14,11 +14,11 @@ chapters:
   - chap_01_templates
   - chap_01_add_grabbable_obj
   - chap_01_editor_settings
+  - chap_01_create_target
+  - chap_01_appear_target
   - chap_01_vr_movement
   - chap_01_smooth_move
   - chap_01_switch_move_mode
-  - chap_01_create_target
-  - chap_01_appear_target
   - chap_01_measure_time
   - chap_01_create_map
   - chap_01_result_ui

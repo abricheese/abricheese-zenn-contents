@@ -31,7 +31,7 @@ Unreal Engine Version : 5.3.2
 
 https://github.com/Allar/ue5-style-guide
 
-作成した［BP_GrabbableObj］をダブルクリックして編集画面を開きます。
+作成した\[BP_GrabbableObj\]をダブルクリックして編集画面を開きます。
 ![](https://storage.googleapis.com/zenn-user-upload/af2b2005a657-20240113.png)
 
 # 掴めるようにする

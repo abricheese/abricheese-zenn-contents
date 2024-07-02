@@ -10,13 +10,13 @@ Unreal Engine Version : 5.3.2
 - マウスホイール回転 ： カメラの前後移動
 - 右クリック + W/A/S/D/Q/Eキー ： カメラの前後左右上下移動
 
-# オブジェクトを作成する
+# オブジェクトを配置する
 
 コンテンツドロワーを開きます。
 ![](https://storage.googleapis.com/zenn-user-upload/6d9118d788a5-20240113.png)
 
-
-
+ドラッグアンドドロップでオブジェクトを配置できます。
+![](https://storage.googleapis.com/zenn-user-upload/93c79280f9aa-20240702.png)
 
 ## 編集画面でのオブジェクトの操作
 - Wキー ： 移動に切り替え
@@ -26,3 +26,6 @@ Unreal Engine Version : 5.3.2
 - Endキー ： オブジェクトを着地させる
 
 ![](https://storage.googleapis.com/zenn-user-upload/5565923879ad-20240113.png)
+
+オブジェクトを回転させてみよう
+![](https://storage.googleapis.com/zenn-user-upload/cf6357119852-20240702.png)

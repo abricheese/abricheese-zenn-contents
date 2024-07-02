@@ -1,5 +1,5 @@
 ---
-title: "カメラを動かす"
+title: "シネカメラを動かす"
 ---
 :::message
 Unreal Engine Version : 5.3.2

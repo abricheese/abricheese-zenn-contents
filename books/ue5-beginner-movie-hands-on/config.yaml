@@ -1,0 +1,19 @@
+title: "UE5初心者向けハンズオン（映像編）"
+summary: "2024年7月6日開催のUE九州in鹿児島のサイドイベント、UE5初心者向けハンズオンで使用するテキストです。"
+topics: ["UnrealEngine", "UnrealEngine5", "UE5", "VR"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - chap_00_about
+  - chap_00_env_setup
+  - chap_01_handson_start
+  - chap_01_create_project
+  - chap_01_enjoy_ue_template
+  - chap_01_learn_ue_editor
+  - chap_01_learn_sequencer
+  - chap_01_move_object
+  - chap_01_learn_cinecamera
+  - chap_01_move_camera
+  - chap_01_export_movie
+  - chap_02_more_learning

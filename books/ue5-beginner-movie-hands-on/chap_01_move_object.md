@@ -14,3 +14,11 @@ Unreal Engine Version : 5.3.2
 
 
 # キーを追加してオブジェクトを動かす
+
+![](https://storage.googleapis.com/zenn-user-upload/2ba21d5411db-20240703.png)
+
+![](https://storage.googleapis.com/zenn-user-upload/7137d2a60bc5-20240703.png)
+
+2秒目、3秒目にも同様にキーを追加します。
+![](https://storage.googleapis.com/zenn-user-upload/b344960d4725-20240703.png)
+

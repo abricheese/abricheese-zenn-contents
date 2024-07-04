@@ -6,7 +6,7 @@ Unreal Engine Version : 5.3.2
 :::
 
 # 動画書き出しその1（レガシー）
-
+「ムービーシーンのキャプチャ（レガシー）」を実行します。
 ![](https://storage.googleapis.com/zenn-user-upload/50d31b1ded34-20240704.png)
 
 出力したいものやマシンスペックに応じて各種設定を変更後、「ムービーキャプチャ」をクリックして書き出します。
@@ -27,7 +27,7 @@ Unreal Engine Version : 5.3.2
 
 
 # 動画書き出しその2（Movie Render Queue）
-
+「ムービーレンダーキュー」を実行します。
 ![](https://storage.googleapis.com/zenn-user-upload/11b5f19a207e-20240704.png)
 
 設定の列の「Unsaved Config」をクリックすると書き出し設定を変更できます。
@@ -40,3 +40,5 @@ Unreal Engine Version : 5.3.2
 
 「レンダリング（ローカル）」をクリックして書き出します。
 ![](https://storage.googleapis.com/zenn-user-upload/2952345e6355-20240704.png)
+
+書き出された連番画像は、FFmpegなどの外部ツールを用いて動画に変換してください。

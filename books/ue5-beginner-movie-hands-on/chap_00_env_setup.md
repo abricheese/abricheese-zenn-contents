@@ -11,7 +11,7 @@ https://zenn.dev/posita33/books/ue5_starter_cpp_and_bp_001/viewer/chap_01_ue5_in
 
 
 ## 低スペックPCでUnreal Engineを扱うときの設定
-そのままの状態では動作が重い、クラッシュする場合は、下記のページを参考に軽量化設定を試してください。
+そのままの状態では動作が重い、クラッシュする場合は、下記のページを参考に軽量化設定を試してみてください。
 [【UE5】低スペックPCのためのエディタ軽量化設定](https://qiita.com/suramaru517/items/00b28ea2b80d2d3065fc)
 
 https://qiita.com/suramaru517/items/00b28ea2b80d2d3065fc

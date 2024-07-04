@@ -22,11 +22,11 @@ Unreal Engine Version : 5.3.2
 
 # シーケンサーの説明
 
-![](https://storage.googleapis.com/zenn-user-upload/8ca8e39b7ca3-20240702.png)
+![](https://storage.googleapis.com/zenn-user-upload/c3644cd2425f-20240704.png)
 
 
 # シーケンサーの設定を変更してみる
-フレームレートを映画と同じ24FPSに変更してみます。
+フレームレートを一般的な映画と同じ24FPSに変更してみます。
 ![](https://storage.googleapis.com/zenn-user-upload/c6f1c073a116-20240702.png)
 
 デフォルトではシーケンサーの横軸はフレーム数で表示されていますが、秒数の表示に切り替えることもできます。

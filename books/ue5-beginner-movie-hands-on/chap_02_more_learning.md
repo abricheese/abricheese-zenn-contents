@@ -15,7 +15,6 @@ https://www.docswell.com/s/EpicGamesJapan/KW1WNR-HowToLearnUE5_2023#p1
 ドクセルで「[猫でも分かる](https://www.docswell.com/search?q=%E7%8C%AB%E3%81%A7%E3%82%82%E5%88%86%E3%81%8B%E3%82%8B)」と検索するとさまざまな講演を見つけられます。
 
 また、講演の動画アーカイブが公開されているものも多いため、スライドタイトルでGoogle検索してみるのもオススメです。
-~~「猫でも分かるUnreal Engineの学び方 - 超初心者向け編 - 2023 v1.0」はアーカイブ公開なし……~~
 
 
 ## YouTube

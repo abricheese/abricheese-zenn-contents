@@ -22,3 +22,5 @@ Unreal Engine Version : 5.3.2
 2秒目、3秒目にも同様にキーを追加します。
 ![](https://storage.googleapis.com/zenn-user-upload/b344960d4725-20240703.png)
 
+「プレイ」ボタンを押して、シーケンサーを再生してみましょう。
+![](https://storage.googleapis.com/zenn-user-upload/8362982ecc1f-20240704.png)

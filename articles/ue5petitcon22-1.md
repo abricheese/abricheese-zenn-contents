@@ -1,5 +1,5 @@
 ---
-title: "第22回UE5ぷちコン 技術的な振り返り① ～マテリアル：電光掲示板編～"
+title: "第22回UE5ぷちコン 技術的な振り返り① ～電光掲示板編～"
 emoji: "🕌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["UnrealEngine", "UnrealEngine5", "UE5","UE5ぷちコン","XRm鹿児島"]

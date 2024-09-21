@@ -3,7 +3,7 @@ title: "第22回UE5ぷちコン 技術的な振り返り② ～ジェットコ�
 emoji: "🎢"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["UnrealEngine", "UnrealEngine5", "UE5","UE5ぷちコン","XRm鹿児島"]
-published: false
+published: true
 ---
 
 # この記事について
@@ -96,13 +96,13 @@ Actorをマップに配置し、RotateTarget変数にCubeを割り当てまし�
 （今回は回転のタイムラインのみは値が0度～360度であることが明確なので、初めから値を0～360の範囲で作りました。）
 
 ![](https://storage.googleapis.com/zenn-user-upload/069d37fa38b8-20240921.png)
-*回転用のタイムライン*
+*回転用のタイムライン(0, 0)→(1, 360)*
 
 ![](https://storage.googleapis.com/zenn-user-upload/09f60b200f80-20240921.png)
-*加速用のタイムライン*
+*加速用のタイムライン(0, 0)→(1, 1)*
 
 ![](https://storage.googleapis.com/zenn-user-upload/b3f559448b7b-20240921.png)
-*減速用のタイムライン*
+*減速用のタイムライン(0, 1)→(1, 0)*
 
 加速の開始（ゲームの開始）と減速の開始（ゲームの終了）の管理はGameModeで行い、イベントディスパッチャーで各ブループリントに通知しています。
 そのため、回転処理をするActorでもGameModeの通知にバインドして加減速の処理を呼び出しています。

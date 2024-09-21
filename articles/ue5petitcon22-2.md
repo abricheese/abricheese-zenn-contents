@@ -46,6 +46,8 @@ https://x.com/xrm_kagoshima/status/1833105284186972588
 
 @[docswell](https://www.docswell.com/s/abricheese/5R4VE5-2022-08-13-181950)
 
+https://www.docswell.com/s/abricheese/5R4VE5-2022-08-13-181950
+
 ブループリントでの機能実装は私が、マップ上の背景にメッシュを配置するのは別のメンバーが担当したため、各々が触るマップをサブクラスに分けて、作業が競合しないようにしました。
 
 ![](https://storage.googleapis.com/zenn-user-upload/03843cca2b64-20240919.png)

@@ -22,6 +22,7 @@ https://togetter.com/li/2431939
 ## その他の技術的な振り返り記事
 - [第22回UE5ぷちコン 技術的な振り返り① ～電光掲示板編～](https://zenn.dev/abricheese/articles/ue5petitcon22-1)
 - [第22回UE5ぷちコン 技術的な振り返り② ～ジェットコースターの回転編～](https://zenn.dev/abricheese/articles/ue5petitcon22-2)
+- [第22回UE5ぷちコン 技術的な振り返り③ ～輪投げ：投げる処理編～](https://zenn.dev/abricheese/articles/ue5petitcon22-3) ←この記事
 
 # この記事で紹介するもの
 ゲーム本編に登場する輪っかを投げる処理を中心に、VRのPawn周りの実装についても、作成手順を記録しておきます。

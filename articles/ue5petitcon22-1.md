@@ -1,6 +1,6 @@
 ---
 title: "第22回UE5ぷちコン 技術的な振り返り① ～電光掲示板編～"
-emoji: "🕌"
+emoji: "🚉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["UnrealEngine", "UnrealEngine5", "UE5","UE5ぷちコン","XRm鹿児島"]
 published: true
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=L5rYlT0Atkk
 https://togetter.com/li/2431939
 
 ## その他の技術的な振り返り記事
-～作成中～
+- [第22回UE5ぷちコン 技術的な振り返り② ～ジェットコースターの回転編～](https://zenn.dev/abricheese/articles/ue5petitcon22-2)
 
 # この記事で紹介するもの
 スコア表示のために電光掲示板を作成したので、作成手順を記録しておきます。

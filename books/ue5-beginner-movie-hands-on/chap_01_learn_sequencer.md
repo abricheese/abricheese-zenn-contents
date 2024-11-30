@@ -19,6 +19,9 @@ Unreal Engine Version : 5.3.2
 ※LSは「Level Sequence」の略です。
 ![](https://storage.googleapis.com/zenn-user-upload/1bb10a02cd29-20240702.png)
 
+### (参考)シーケンサーの開き方
+もしもプロジェクトを再起動などしたあとで再度シーケンサーを編集したくなった場合は、コンテンツドロワーにて「LS_MovieLearn」をダブルクリックすると、シーケンサーの編集画面を開くことができます。
+![](https://storage.googleapis.com/zenn-user-upload/0fba8dd0df46-20241130.png)
 
 # シーケンサーの説明
 

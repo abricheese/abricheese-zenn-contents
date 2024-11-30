@@ -42,3 +42,11 @@ Unreal Engine Version : 5.3.2
 ![](https://storage.googleapis.com/zenn-user-upload/2952345e6355-20240704.png)
 
 書き出された連番画像は、FFmpegなどの外部ツールを用いて動画に変換してください。
+
+# (参考)mov形式で書き出す
+
+編集＞プラグインから「Apple ProRes Media」を有効化して「今すぐ再起動」を実行すると、.mov形式での動画出力ができるようになります。
+
+![](https://storage.googleapis.com/zenn-user-upload/e4a6fd5a2e81-20241130.png)
+
+![](https://storage.googleapis.com/zenn-user-upload/933b40c736c9-20241130.png)

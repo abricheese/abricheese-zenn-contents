@@ -24,3 +24,18 @@ Unreal Engine Version : 5.3.2
 VRゲーム向けの基本的な機能が実装されたテンプレート
 https://youtu.be/Gz6iFk2P_98
 
+## 映像向けテンプレートたち
+映像向けの公式テンプレートもいくつか用意されています。
+
+![](https://storage.googleapis.com/zenn-user-upload/7bc14c7e664c-20241130.png)
+
+### バーチャルプロダクションについての各種情報がまとめられたページ
+
+https://ue5study.com/unrealengine-virtualproduction/
+
+### nDisplayの公式ドキュメント
+https://dev.epicgames.com/documentation/ja-jp/unreal-engine/ndisplay-template-in-unreal-engine?application_version=5.3
+
+### インカメラVFXの公式ドキュメント
+
+https://dev.epicgames.com/documentation/ja-jp/unreal-engine/in-camera-vfx-in-unreal-engine?application_version=5.3

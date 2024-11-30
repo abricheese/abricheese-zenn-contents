@@ -12,7 +12,7 @@ Unreal Engine Version : 5.3.2
 
 # シネカメラの使い方
 
-![](https://storage.googleapis.com/zenn-user-upload/b0b4412072cf-20240704.png)
+![](https://storage.googleapis.com/zenn-user-upload/908ede68e5ae-20241130.png)
 
 
 「カメラ追跡設定」を有効化すると、カメラが特定のオブジェクトの方向を常に向くようになります。

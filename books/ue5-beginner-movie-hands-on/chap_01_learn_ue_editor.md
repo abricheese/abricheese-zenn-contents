@@ -33,3 +33,7 @@ Unreal Engine Version : 5.3.2
 
 オブジェクトを回転させてみよう
 ![](https://storage.googleapis.com/zenn-user-upload/cf6357119852-20240702.png)
+
+:::message
+作業内容やPCスペックによっては、作業中にUEエディターがクラッシュしてしまうことがあるため、こまめにCtrl＋Shift＋Sキーで「すべて保存」の操作をすることをオススメします。
+:::

@@ -13,7 +13,7 @@ Unreal Engine Version : 5.3.2
 ![](https://storage.googleapis.com/zenn-user-upload/d7a690cf7ed1-20240704.png)
 
 画面右下に「キャプチャ完了」と表示されれば書き出し成功です。
-「キャプチャフォルダを開く」をクリックすると、出力先をエクスプローラーで開けます。
+「キャプチャフォルダーを開く」をクリックすると、出力先をエクスプローラーで開けます。
 ![](https://storage.googleapis.com/zenn-user-upload/14ebefe81f33-20240704.png)
 
 # Movie Render Queueの有効化

@@ -20,3 +20,9 @@ https://www.youtube.com/watch?v=dya46pbdiD4
 VRM4Uの公式ドキュメントにVMC Protocolのモーションキャプチャーデータを受け取ってVRMモデルに反映する方法が載っています。
 
 https://ruyo.github.io/VRM4U/08_vmc/
+
+### モーションキャプチャーについて解説している記事
+
+こちらの記事でVRM4Uの導入からTakeRecorderを使ったアニメーションの保存まで解説されています。
+
+https://qiita.com/tukigaselio/items/92d4dfbebadbb47aeb57

@@ -9,7 +9,7 @@ Unreal Engine Version : 5.5.0
 
 ### Unreal Fest2024Tokyoの講演
 
-Epic Games Japanの向井さんの講演で詳しく解説されていて、最新情報まで網羅されています。
+Epic Games Japanの向井さんの講演で詳しく解説されていて、2024/11時点での最新情報まで網羅されています。
 
 https://www.youtube.com/watch?v=bRVnkTG2wFk
 
